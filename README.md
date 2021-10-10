@@ -1,4 +1,5 @@
 # 2048
+[Live Demo](https://silly-torvalds-4cdfa3.netlify.app)
 ## Description
 * Developed a simple 2048 game.
 ## Tech-stack
